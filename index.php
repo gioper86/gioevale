@@ -22,7 +22,6 @@
 
         				<?php include 'partials/header.php';?>
 
-
 						<!-- Banner -->
 							<section id="banner">
 								<header>
@@ -132,28 +131,7 @@
 				</div>
 
 			<!-- Footer -->
-				<div id="footer-wrapper">
-					<section id="footer" class="container">
-						<!-- <div class="row">
-							<div class="8u 12u(mobile)">
-
-							</div>
-							<div class="4u 12u(mobile)">
-
-							</div>
-						</div> -->
-						<div class="row">
-							<div class="12u">
-								<!-- Copyright -->
-									<div id="copyright">
-										<ul class="links">
-											<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-										</ul>
-									</div>
-							</div>
-						</div>
-					</section>
-				</div>
+			<?php include 'partials/footer.php';?>
 
 		</div>
 

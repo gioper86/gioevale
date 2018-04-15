@@ -1886,7 +1886,7 @@
 			}
 
 			#main-wrapper {
-				padding: 4em 0 4em 0;
+				padding: 0 0 4em 0;
 			}
 
 			#footer-wrapper {
@@ -2129,7 +2129,7 @@
 			}
 
 			#main-wrapper {
-				padding: 2.75em 0 2.75em 0;
+				padding: 0 0 2.75em 0;
 			}
 
 			#footer-wrapper {
@@ -2458,7 +2458,7 @@
 		/* Wrappers */
 
 			#main-wrapper {
-				padding: 2em 10px;
+				padding: 0 10px;
 				overflow: hidden;
 			}
 
