@@ -27,8 +27,8 @@
     ); 
 ?>
 <!-- Logo -->
-<h1><a href="index.html">Dopetrope</a></h1>
-
+<h1><a href="index.html">Valeria & Giovanni</a></h1>
+<p>June 21, 2018 - Palmi </p>
 <!-- Nav -->
     <nav id="nav">
         <ul>
