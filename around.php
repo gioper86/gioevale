@@ -39,7 +39,7 @@
                                     you will find a list of beautiful locations that are close to Palmi. Some of them are in Calabria
                                     and others in Sicily
 								</p>
-                                <iframe src="https://www.google.com/maps/d/embed?mid=17-pWayA0xpHEgPQE_O5DakP316aaUIjv" width="640" height="480"></iframe>
+                                <iframe src="https://www.google.com/maps/d/embed?mid=17-pWayA0xpHEgPQE_O5DakP316aaUIjv" width="100%" height="480"></iframe>
                                 <section>
 									<header>
 										<h3>Calabria</h3>
@@ -49,13 +49,14 @@
                                         <b>Scilla</b> is a nice town on the coast only 20 minutes drive from Palmi. The main attractions here are the castle,
                                         the nice city centre and the beach. Our favourite part of Scilla is a picturesque village called <b>Chianalea</b>. 
                                         Its houses almost built on the water, the narrow streets and the amazing restaurants make it a must-see place.
+                                        <br/> <a href="https://www.facebook.com/explorecalabria/videos/vl.362377274139634/766874843454861/?type=1" target="_blank">Video here</a>
                                     </p>
                                     <h4>Reggio Calabria</h4>
                                     <p>
                                         <b>Reggio Calabria</b> is the capital of the province and the biggest city nearby Palmi, but still not that big. 
                                         It’s just 30 minutes away from Palmi (by car). Its sea-side has been elected "the most beautiful kilometer" in Italy. 
                                         Sicily seems just a swim away from there and the view on the volcano Etna is often spectacular. 
-                                        The main street (Corso Garibaldi) is the shopping area. Reggio is great for food, it has nice restaurants, amazing ice-cream (like this place) and “pasticcerie”. 
+                                        The main street (Corso Garibaldi) is the shopping area. Reggio is great for food, it has nice restaurants, amazing ice-cream and “pasticcerie”. 
                                         Reggio also has an incredible history and its museum is a must-see. The famous “Bronzi di Riace” are exposed there.
                                     </p>                                      
                                     <h4>Tropea</h4>
@@ -64,6 +65,8 @@
                                         Another location to be visited nearby is <b>Capo Vaticano</b>. 
                                         There you’ll find some of the best beaches in Calabria. 
                                         Tropea is roughly an hour drive from Palmi.
+                                        <br/><a href="https://www.facebook.com/explorecalabria/videos/vl.362377274139634/756262407849438/?type=1" target="_blank">Nice video of Capovaticano here</a>
+                                        <br/><a href="https://www.facebook.com/explorecalabria/videos/vl.362377274139634/720675088074837/?type=1" target="_blank">And one of Tropea here</a>                
                                     </p>
 
 								</section>
