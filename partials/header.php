@@ -4,23 +4,27 @@
             "href" => "index.php",
             "label" => "Home"
         ),
+        "directions" => array(
+            "href" => "section.php?page=directions",
+            "label" => "Getting here"
+        ),        
         "ceremony" => array(
             "href" => "section.php?page=ceremony",
             "label" => "Ceremony"
         ),
-        "restaurant" => array(
-            "href" => "section.php?page=restaurant",
-            "label" => "Restaurant"
+        "party" => array(
+            "href" => "section.php?page=party",
+            "label" => "Party"
         ),
         "palmi" => array(
             "href" => "section.php?page=palmi",
-            "label" => "What to see in Palmi"
+            "label" => "Palmi"
         ),
         "around" => array(
             "href" => "section.php?page=around",
-            "label" => "What to see around Palmi"
+            "label" => "Around Palmi"
         ),
-        "contact" => array(
+        "contacts" => array(
             "href" => "section.php?page=contacts",
             "label" => "Contacts"
         )        
@@ -33,8 +37,14 @@
     <nav id="nav">
         <ul>
             <?php  
-                $currentPage = basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING']);
-                $currentPage = strpos($currentPage, 'php') ? basename($currentPage, ".php") : "home";
+                $currentPage = 'home';
+                
+                $params = NULL;
+                parse_str($_SERVER['QUERY_STRING'], $params);
+                if($params['page']) {
+                    $currentPage  = $params['page'];
+                }
+
                 $currentPage = $currentPage == 'index' ? 'home' : $currentPage;
                 foreach ($sections as $sectionName => $section) {
                     $href = $section['href'];
