@@ -1,6 +1,6 @@
 <a href="#" class="image featured"><img src="images/villazerbi1.jpg" alt="" /></a>
 <header>
-    <h2>Pary</h2>
+    <h2>Party</h2>
     <p>When & Where</p>
 </header>
 <p> <b>When?</b> <br>21st of June at 8.30PM.</p>
