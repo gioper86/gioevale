@@ -6,7 +6,7 @@
 <p> <b>When?</b> <br>21st of June at 8.30PM.</p>
 
 <p>
-    <b>Where?</b> <br>In a villa in Taurianova, a town 20 minutes drive from Palmi. Here's the direction:
+    <b>Where?</b> <br>We will celebrate in a villa in Taurianova, a town 20 minutes drive from Palmi. Here's the full address:
     <br>Villa Zerbi
     <br>Via Roma, 185, 89029 Taurianova (RC)
 </p>

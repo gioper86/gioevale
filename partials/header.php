@@ -6,7 +6,7 @@
         ),
         "directions" => array(
             "href" => "section.php?page=directions",
-            "label" => "Getting here"
+            "label" => "Getting to Palmi"
         ),        
         "ceremony" => array(
             "href" => "section.php?page=ceremony",
@@ -43,7 +43,7 @@
                 parse_str($_SERVER['QUERY_STRING'], $params);
                 if($params['page']) {
                     $currentPage  = $params['page'];
-                }
+                }                
 
                 $currentPage = $currentPage == 'index' ? 'home' : $currentPage;
                 foreach ($sections as $sectionName => $section) {

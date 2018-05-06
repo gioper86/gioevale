@@ -6,7 +6,7 @@
 <p> <b>When?</b> <br>21st of June at 3.30PM.</p>
 
 <p>
-    <b>Where?</b> <br>in a churc in the centre of Palmi. Here's the direction:
+    <b>Where?</b> <br>in a churc in the centre of Palmi. Here's the full address:
     <br>Chiesa di Maria Santissima del Soccorso
     <br>Piazza Soccorso, 89015 Palmi (RC)
 </p>
