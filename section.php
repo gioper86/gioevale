@@ -50,7 +50,6 @@
 				</div>
 
 			<!-- Footer -->
-            <?php echo "lango ".$params['lang'].$lang?>
 			<?php include 'partials/footer.php';?>
 		</div>
 

@@ -5,23 +5,23 @@
             "label" => "Home"
         ),
         "ceremony" => array(
-            "href" => "ceremony.php",
+            "href" => "section.php?page=ceremony",
             "label" => "Ceremony"
         ),
         "restaurant" => array(
-            "href" => "restaurant.php",
+            "href" => "section.php?page=restaurant",
             "label" => "Restaurant"
         ),
         "palmi" => array(
-            "href" => "palmi.php",
+            "href" => "section.php?page=palmi",
             "label" => "What to see in Palmi"
         ),
         "around" => array(
-            "href" => "around.php",
+            "href" => "section.php?page=around",
             "label" => "What to see around Palmi"
         ),
         "contact" => array(
-            "href" => "contacts.php",
+            "href" => "section.php?page=contacts",
             "label" => "Contacts"
         )        
     ); 
