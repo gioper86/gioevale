@@ -6,7 +6,7 @@
     <div class="row">
         <div class="4u 12u(mobile)">
             <section class="box">
-                <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+                <a href="#" class="image featured"><img src="images/box_map.jpg" alt="" /></a>
                 <header>
                     <h3>Come arrivare</h3>
                 </header>
@@ -18,7 +18,7 @@
         </div>
         <div class="4u 12u(mobile)">
             <section class="box">
-                <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+                <a href="#" class="image featured"><img src="images/box_ceremony.jpg" alt="" /></a>
                 <header>
                     <h3>Cerimonia</h3>
                 </header>
@@ -30,7 +30,7 @@
         </div>
         <div class="4u 12u(mobile)">
             <section class="box">
-                <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+                <a href="#" class="image featured"><img src="images/box_party.jpg" alt="" /></a>
                 <header>
                     <h3>Festeggiamenti</h3>
                 </header>
@@ -44,7 +44,7 @@
     <div class="row">
         <div class="4u 12u(mobile)">
             <section class="box">
-                <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                <a href="#" class="image featured"><img src="images/box_palmi.jpg" alt="" /></a>
                 <header>
                     <h3>Cosa vedere a Palmi</h3>
                 </header>

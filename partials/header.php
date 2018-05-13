@@ -86,8 +86,8 @@
 ?>
 <!-- Logo -->
 <div class="flags">
-    <a href="?lang=en&page=<?php echo $currentPage?>"><img src="images/flag-uk.png"></a>
-    <a href="?lang=it&page=<?php echo $currentPage?>"><img src="images/flag-it.png"></a>
+    <a href="?lang=en&page=<?php echo $currentPage ?>"><img src="images/flag-uk.png"></a>
+    <a href="?lang=it&page=<?php echo $currentPage ?>"><img src="images/flag-it.png"></a>
 </div>
 <h1><a href="index.html">Valeria & Giovanni</a></h1>
 <p><?php echo $label ?></p>
